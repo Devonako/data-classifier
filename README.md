@@ -1,7 +1,7 @@
 # File Classifier and Data Scanner
 
 This Python program scans files in a specified folder, classifies them by file type, and analyzes their contents for specific data types like credit card numbers and email addresses. It then generates a graphical report visualizing the file type distribution and the occurrences of the identified data.
-
+![alt text](https://github.com/Devonako/data-classifier/blob/main/Screenshot%202024-12-22%20194359.png)
 ## Features
 
 - **File Classification:** Classifies files based on their extensions (e.g., .txt, .pdf, .docx).
